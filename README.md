@@ -12,3 +12,4 @@ Utilizes an AI algorithm that automatically determines the optimal placement of 
 This project emphasizes streamlining various stacking procedures into a centralized hub that can be controlled by both robot arms. All efforts are directed toward the development of the user interface, operational procedures, and robot arm controls.
 
 ### Preview
+Feel free to contact me if you request a video demonstration of this work.
